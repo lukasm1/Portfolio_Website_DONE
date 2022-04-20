@@ -1,0 +1,28 @@
+img:hover {
+  opacity: 1;
+}
+
+.white-img {
+  border: 1.4px solid #999;
+}
+
+.language {
+  width: 9%;
+  margin-right: 2%;
+  opacity: 0.5;
+}
+
+.languages {
+  padding-left: 8%;
+  padding-bottom: 0%;
+}
+
+.flask, .html, .css, .sql, .linux, .python, .selenium, .mongodb, .pandas, .oop, .bootstrap, .tkinter, .node_js, .api {
+  width: 23.3%;
+  opacity: 0.5;
+}
+
+.lm {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
